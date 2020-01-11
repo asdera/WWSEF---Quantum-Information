@@ -5,3 +5,8 @@ html, body {
 canvas {
   display: block;
 }
+a {
+  font-size: 48px;
+  font-family: Comic Sans;
+}
+  
